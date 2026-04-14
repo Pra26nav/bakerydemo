@@ -115,6 +115,7 @@ class Person(
         index.SearchField("first_name"),
         index.SearchField("last_name"),
         index.FilterField("job_title"),
+        index.SearchField("job_title"),
         index.AutocompleteField("first_name"),
         index.AutocompleteField("last_name"),
     ]
