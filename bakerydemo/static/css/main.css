@@ -761,7 +761,7 @@ html[data-theme='dark'] .theme-toggle {
   padding: 0;
 }
 
-@media (max-width: 1150px) {
+@media (max-width: 1149px) {
   .collapse.in {
     flex-basis: 100%;
     overflow-y: hidden;
@@ -799,7 +799,7 @@ html[data-theme='dark'] .theme-toggle {
 }
 
 /* Mobile menu styling */
-@media (max-width: 1150px) {
+@media (max-width: 1149px) {
   .nav-pills > .presentation {
     float: none;
     width: 100%;
@@ -1534,7 +1534,7 @@ input[type='radio'] {
 @media (min-width: 768px) {
   .homepage .promo-row {
     padding-top: 80px;
-    margin-right: -45px;
+    margin-right: -40px;
   }
 }
 
